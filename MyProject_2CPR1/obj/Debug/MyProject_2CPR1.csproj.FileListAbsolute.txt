@@ -1,0 +1,68 @@
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.csprojAssemblyReference.cache
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.exe.config
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.exe
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.pdb
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\ShadowEngine.dll
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.FreeGlut.dll
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.OpenGl.dll
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.Platform.Windows.dll
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.FreeGlut.xml
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.Platform.Windows.xml
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.csproj.CopyComplete
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.exe
+D:\Computer Learning\Computer Graphic\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.pdb
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.csprojAssemblyReference.cache
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.exe
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.pdb
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.exe.config
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.exe
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.pdb
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.OpenGl.dll
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Advice\Desktop\New folder (5)\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.csproj.CopyComplete
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.exe.config
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.exe
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.pdb
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.FreeGlut.dll
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.OpenGl.dll
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.FreeGlut.xml
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.csprojAssemblyReference.cache
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.csproj.CopyComplete
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.exe
+C:\Users\vilai\OneDrive\เดสก์ท็อป\pl\0002\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.pdb
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.exe.config
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.exe
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\MyProject_2CPR1.pdb
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.OpenGl.dll
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.csprojAssemblyReference.cache
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.csproj.CoreCompileInputs.cache
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.csproj.CopyComplete
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.exe
+C:\Users\Advice\Desktop\New folder\MyProject_2CPR1\MyProject_2CPR1\obj\Debug\MyProject_2CPR1.pdb
